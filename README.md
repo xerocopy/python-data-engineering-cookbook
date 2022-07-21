@@ -21,14 +21,14 @@ This is a "teaching" tool that shows how a library like Pandas, or potentially S
 Check Version:
 
 ```
- ./csvutil.py --version
-csvutil.py, version 0.1
+ ./csvcli.py --version
+csvcli.py, version 0.1
 ```
 
 Check Help:
 
 ```
-./csvutil.py --help   
+./csvcli.py --help   
 Usage: csvutil.py [OPTIONS] COMMAND [ARGS]...
 
   CSV Operations Tool
